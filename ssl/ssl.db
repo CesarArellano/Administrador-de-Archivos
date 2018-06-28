@@ -1,0 +1,45 @@
+--- 
+files: 
+  certificate: 
+    proyectospaztecav_com_b5793_c2941_1548197279_06c6edafb9786eb9e22336930cfc159d: 
+      created: '1516661279'
+      domains: 
+        - proyectospaztecav.com
+        - mail.proyectospaztecav.com
+        - www.proyectospaztecav.com
+      friendly_name: Cert for “proyectospaztecav.com”
+      id: proyectospaztecav_com_b5793_c2941_1548197279_06c6edafb9786eb9e22336930cfc159d
+      is_self_signed: 1
+      issuer.commonName: proyectospaztecav.com
+      issuer.organizationName: ~
+      modulus: b57939f84cba73891d17bc4cc1b803287b77349e27efd5d404802f480d0025c4913f4547bed302ab8018b64a202dfa3dc073446ce19fb526145ce1cef11d46c08615e3ed1e69980843d1713e6abd13cbb4ebe1820eda73cc55ce95b9b924987aa2882725a058a802c26f712fe4cd7b7c4221e7ff5ea3d9831cd6bc7a2a507c748297e704c098287eb59cba8aaff8944176dbf127bd357d7b78fe96f1ec3e92380931ade8a5aff005a7bfb8756ce86401c5bb8e174700077bc8ec77ea22d8c2e4a0334eede59fbb111585047f8873e12376be4670707f1d4b16d0d944fb5a700925a892d4244dfce386c7a65bdd52013fc5560595ff9861733fb2be4a5e7c2941
+      modulus_length: 2048
+      not_after: '1548197279'
+      not_before: '1516661279'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: proyectospaztecav.com
+      validation_type: ~
+  key: 
+    b5793_c2941_d6b5ec18d87587d23d9a37b7b6af91e2: 
+      created: '1516661279'
+      friendly_name: Key for “proyectospaztecav.com”
+      id: b5793_c2941_d6b5ec18d87587d23d9a37b7b6af91e2
+      modulus: b57939f84cba73891d17bc4cc1b803287b77349e27efd5d404802f480d0025c4913f4547bed302ab8018b64a202dfa3dc073446ce19fb526145ce1cef11d46c08615e3ed1e69980843d1713e6abd13cbb4ebe1820eda73cc55ce95b9b924987aa2882725a058a802c26f712fe4cd7b7c4221e7ff5ea3d9831cd6bc7a2a507c748297e704c098287eb59cba8aaff8944176dbf127bd357d7b78fe96f1ec3e92380931ade8a5aff005a7bfb8756ce86401c5bb8e174700077bc8ec77ea22d8c2e4a0334eede59fbb111585047f8873e12376be4670707f1d4b16d0d944fb5a700925a892d4244dfce386c7a65bdd52013fc5560595ff9861733fb2be4a5e7c2941
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b57939f84cba73891d17bc4cc1b803287b77349e27efd5d404802f480d0025c4913f4547bed302ab8018b64a202dfa3dc073446ce19fb526145ce1cef11d46c08615e3ed1e69980843d1713e6abd13cbb4ebe1820eda73cc55ce95b9b924987aa2882725a058a802c26f712fe4cd7b7c4221e7ff5ea3d9831cd6bc7a2a507c748297e704c098287eb59cba8aaff8944176dbf127bd357d7b78fe96f1ec3e92380931ade8a5aff005a7bfb8756ce86401c5bb8e174700077bc8ec77ea22d8c2e4a0334eede59fbb111585047f8873e12376be4670707f1d4b16d0d944fb5a700925a892d4244dfce386c7a65bdd52013fc5560595ff9861733fb2be4a5e7c2941: 
+        proyectospaztecav_com_b5793_c2941_1548197279_06c6edafb9786eb9e22336930cfc159d: ~
+    subject.commonName: 
+      proyectospaztecav.com: 
+        proyectospaztecav_com_b5793_c2941_1548197279_06c6edafb9786eb9e22336930cfc159d: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “proyectospaztecav.com”: proyectospaztecav_com_b5793_c2941_1548197279_06c6edafb9786eb9e22336930cfc159d
+  key: 
+    friendly_name: 
+      Key for “proyectospaztecav.com”: b5793_c2941_d6b5ec18d87587d23d9a37b7b6af91e2
+    modulus: 
+      b57939f84cba73891d17bc4cc1b803287b77349e27efd5d404802f480d0025c4913f4547bed302ab8018b64a202dfa3dc073446ce19fb526145ce1cef11d46c08615e3ed1e69980843d1713e6abd13cbb4ebe1820eda73cc55ce95b9b924987aa2882725a058a802c26f712fe4cd7b7c4221e7ff5ea3d9831cd6bc7a2a507c748297e704c098287eb59cba8aaff8944176dbf127bd357d7b78fe96f1ec3e92380931ade8a5aff005a7bfb8756ce86401c5bb8e174700077bc8ec77ea22d8c2e4a0334eede59fbb111585047f8873e12376be4670707f1d4b16d0d944fb5a700925a892d4244dfce386c7a65bdd52013fc5560595ff9861733fb2be4a5e7c2941: b5793_c2941_d6b5ec18d87587d23d9a37b7b6af91e2
